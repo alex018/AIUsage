@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AI Usage</string>
+    <string name="widget_description">Your Claude Code and ChatGPT Codex limits</string>
+    <string name="refresh">Refresh</string>
+</resources>
